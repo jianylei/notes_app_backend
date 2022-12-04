@@ -1,7 +1,5 @@
 const allowedOrigins = [
-    'http://localhost:3000',
-    'https://jianylei.com',
-    'https://www.jianylei.com'
+    'https://jyl-notes.onrender.com'
 ]
 
 module.exports = allowedOrigins;
